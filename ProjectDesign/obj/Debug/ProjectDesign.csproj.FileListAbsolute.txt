@@ -1,0 +1,10 @@
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\bin\Debug\ProjectDesign.exe.config
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\bin\Debug\ProjectDesign.exe
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\bin\Debug\ProjectDesign.pdb
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\obj\Debug\ProjectDesign.csprojAssemblyReference.cache
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\obj\Debug\ProjectDesign.Form1.resources
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\obj\Debug\ProjectDesign.Properties.Resources.resources
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\obj\Debug\ProjectDesign.csproj.GenerateResource.cache
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\obj\Debug\ProjectDesign.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\obj\Debug\ProjectDesign.exe
+C:\Users\Gulam\Documents\C# projects\FunnyProject\ProjectDesign\ProjectDesign\obj\Debug\ProjectDesign.pdb
