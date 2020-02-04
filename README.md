@@ -51,8 +51,7 @@ Created in 5 minutes and the teacher was showing us different things we could do
 - Step 2: Clone this project
 - Step 3: Once downloading is finished, open it up using Visual Studio
 - Step 4: Click run at the top and the application will run
-- Step 5: Input a base radius and height
-- Step 6: Click calculate and this will then calculate the volume of the cylinder
+- Step 5: Use the buttons to move the image around
 
 
 ### What I learnt:
