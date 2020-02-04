@@ -38,7 +38,7 @@
 
 ### Description: 
 
-In college we had our first lesson in C#. We had to learn the basics of C# and learn how to use Visual Studio. We created this by following along with how the teacher does it and then we create it by following the instructions that he created for the project. 
+In college we had our first lesson in C#. We had to learn the basics of C# and learn how to use Visual Studio. This project allows the user to move an image, which is there by default and can't be replaced, by using the buttons and attatching a piece of code that allows the picture to move uo, left, right and down. We created this by following along with how the teacher does it and then we create it by following the instructions that he created for the project. 
 
 Created in 5 minutes and the teacher was showing us different things we could do. This project was simple but my tutot was telling us that simple projects like these would be easy to work with and they don't cause any problems. He told us that we could add this onto our portfolio.
 
