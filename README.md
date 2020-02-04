@@ -45,13 +45,13 @@ This exercise was teaching students how to use the windows form application. For
 Because I already acquired some knowledge in C#, this took me only a few minutes. People who were new to the concept of programming spent 20-25 minutes creating this application.
 
 ### Prerequisites:
+- Visual Studio 2017+ (Recommended 2019)
 
 ### Instructions:
 
 ### What I learnt:
 
 ### Constraints:
-
 
 ### Improvements:
 
@@ -62,3 +62,4 @@ Because I already acquired some knowledge in C#, this took me only a few minutes
 ### Screenshots:
 
 ### Credits:
+Mario Santos (Tutor)
