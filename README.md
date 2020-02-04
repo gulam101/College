@@ -48,6 +48,7 @@ Because I already acquired some knowledge in C#, this took me only a few minutes
 
 ### Prerequisites:
 - Visual Studio 2017+ (Recommended 2019)
+- Windows 10 (OS)
 
 ### Instructions:
 - Step 1: Download Visual Studio (If you don't have already)
