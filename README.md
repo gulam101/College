@@ -60,6 +60,8 @@ Created in 5 minutes and the teacher was showing us different things we could do
 
 ### Constraints:
 
+Like I said before, I did have a problem with Visual Studio because I was new and the PC kept on crashing because it utilaised old hardware. However, I managed to solve the problem of Visual Studio by Googling my problems. As for the PC crashing I managed to close the services that were taking most of the RAM and this made it stable.
+
 ### Improvements:
 This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
 
