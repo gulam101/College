@@ -1,5 +1,4 @@
-# College
-
+# Move Image with Buttons
 
 # Table of Contents:
 
