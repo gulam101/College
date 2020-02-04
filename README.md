@@ -55,6 +55,9 @@ Created in 5 minutes and the teacher was showing us different things we could do
 
 
 ### What I learnt:
+- Windows Standard Form
+- Basics to C#
+- Basics to Software Lifecycle
 
 ### Constraints:
 
