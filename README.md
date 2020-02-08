@@ -14,7 +14,7 @@
 [Planned Features](#Planned_Features)  
 <a name="Planned_Features"/>
 
-[What I learnt](#What_I_Learnt)  
+[What I learnt](#What_I_Learned)  
 <a name="What_I_Learnt"/>
 
 [Constraints](#Constraints)  
@@ -53,7 +53,7 @@ Created in 5 minutes and the teacher was showing us different things we could do
 - Step 5: Use the buttons to move the image around
 
 
-### What I learnt:
+### What I learned:
 - Windows Standard Form
 - Basics to C#
 - Basics to Software Lifecycle
