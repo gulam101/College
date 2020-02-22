@@ -1,4 +1,4 @@
-# Move Image with Buttons
+# Image Mover
 
 # Table of Contents:
 
