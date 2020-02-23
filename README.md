@@ -84,4 +84,4 @@ Development changes tracks the changes that happend to the project. It orders it
 ![IMG001](https://user-images.githubusercontent.com/45819118/73939518-8dad2e80-48e1-11ea-93da-a61d70602c84.PNG)
 
 ### Credits:
-Mario Santos (Tutor)
+- Gulam Qasim (Author)
